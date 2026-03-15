@@ -5,6 +5,7 @@ This repository explores how different prompt structures influence the quality o
 
   ## Analysis: Basic Prompt x Advanced Prompt
   Basic Prompt
+  
   `write a product description for a smartphone`
   
   Output
