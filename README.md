@@ -18,7 +18,7 @@ Brief Analysis: Since the prompt didn’t specify any criteria or parameters, it
 `You are a professional copywriter. Write a persuasive product description for a smartphone.  Include: - Key features - Benefits - Emotional appeal - Call to action`
 Unlike the basic version, the advanced prompt is structured to include as much detail and description as possible. It also clearly defines its parameters, instructing the AI to assume the role of a copywriting expert and then write a persuasive product description that meets the conditions outlined at the end.
   #### Output
-  ![Image Alt]()
+  ![Image Alt](https://github.com/LeonardoAI33/Prompt-Engineer-Framework/blob/main/Images/advance-prompt-print.png?raw=true)
 Brief Analysis: See the difference? The response is now much better than the one from the basic prompt. We can see that the product description has a more human touch and wasn’t generated in a generic way. Plus, the AI created just one description instead of two, in order to prioritize the criteria set out in the advanced prompt. 
 
 
